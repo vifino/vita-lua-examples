@@ -1,4 +1,4 @@
-## vitafm-addons
+## vita-lua-examples
 
 Build vita-lua with `make BOOTSCRIPT=src/boot/vitafm.lua`.
 

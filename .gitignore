@@ -1,0 +1,6 @@
+# Vim stuff
+*.swp
+*.un~
+
+# Zips
+*.zip
